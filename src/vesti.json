@@ -1,0 +1,20 @@
+[
+     {
+        "id": "1",
+        "slika": "https://placeimg.com/640/480/any",
+        "title": "Vest 1",
+        "desc": "Opis 1"
+    },
+    {
+        "id": "2",
+        "slika": "https://placeimg.com/640/480/any",
+        "title": "Vest 2",
+        "desc": "Opis 2"
+    },
+    {
+        "id": "3",
+        "slika": "https://placeimg.com/640/480/any",
+        "title": "Vest 3",
+        "desc": "Opis 3"
+    }
+]
